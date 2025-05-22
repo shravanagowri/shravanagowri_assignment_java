@@ -9,3 +9,6 @@ output:(https://github.com/shravanagowri/shravanagowri_assignment_java/blob/main
 
 1B4:Arraylist
 output:(https://github.com/shravanagowri/shravanagowri_assignment_java/blob/main/1B_Arraylist.java/1b4_output.png)
+
+1B5:Arraylist
+output:(https://github.com/shravanagowri/shravanagowri_assignment_java/blob/main/1B_Arraylist.java/1b5_output.png)
