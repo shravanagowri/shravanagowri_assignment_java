@@ -1,3 +1,5 @@
+*/1B5:Write a java program for getting different colors through ArrayList interface and delete nth
+element from the ArrayList object by using remove by index*/
 package ass1b5;
 import java.util.ArrayList;
 public class DeleteNthElement {
