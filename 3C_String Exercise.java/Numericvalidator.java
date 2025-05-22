@@ -1,3 +1,6 @@
+/*3C8:Write a Java Program for Verifying if a string contains only numeric characters using user defined
+function isNumeric()*/
+
 package ass3C8;
 import java.util.Scanner;
 public class Numericvalidator {
