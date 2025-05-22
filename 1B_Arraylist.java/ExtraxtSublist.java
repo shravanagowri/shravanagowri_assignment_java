@@ -1,3 +1,5 @@
+*/1B4:Write a java program for getting different colors through ArrayList interface and extract the
+elements 1st and 2nd from the ArrayList object by using SubList()*/
 package ass1b4;
 import java.util.ArrayList;
 import java.util.List;
