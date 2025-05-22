@@ -9,3 +9,6 @@ output:(https://github.com/shravanagowri/shravanagowri_assignment_java/blob/main
 
 3B4:string palindrome
 output:(https://github.com/shravanagowri/shravanagowri_assignment_java/blob/main/3B.String_Exercise_progams/3b4_output.png)
+
+3B5:string whitespace
+output:(https://github.com/shravanagowri/shravanagowri_assignment_java/blob/main/3B.String_Exercise_progams/3b5_output.png)
